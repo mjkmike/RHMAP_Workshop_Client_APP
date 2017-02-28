@@ -1,7 +1,7 @@
 # GetWeather Client Application
 ---------
-Author: Michael Sodomsky
-Based on: Erik Jan de Wit's Blank Cordova Template
+Author: Michael Sodomsky  
+Based on: Erik Jan de Wit's Blank Cordova Template  
 Level: Intermediate   
 Technologies: Javascript, Cordova, RHMAP   
 Summary: A basic Hybrid client side template with RHMAP.   
